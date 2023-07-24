@@ -1,3 +1,7 @@
 node_modules
 distribution
 .parcel-cache
+distribution.crx
+distribution.crx.zip
+distribution.pem
+distribution.zip
